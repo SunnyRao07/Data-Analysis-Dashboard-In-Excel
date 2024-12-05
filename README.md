@@ -20,4 +20,21 @@ The primary objective of this project is to develop an interactive dashboard usi
 ## Dashboard User Interface
 - <a href="https://github.com/SunnyRao07/Data-Analysis-Dashboard-In-Excel/blob/main/Screenshot%202024-12-05.png">Access Dashboard<a/>
 
+## Data Preparation and Analysis Process
+
+1. **Data Quality Assurance:**
+   * Conducted a thorough review of the dataset to identify and address any missing values or inconsistencies.
+   * Ensured data consistency by standardizing data types, formats, and values.
+
+2. **Data Analysis:**
+   * Utilized pivot tables to organize and analyze the data according to the specified questions.
+   * Merged multiple pivot tables into a single interactive dashboard.
+   * Implemented slicers to enable dynamic filtering and exploration of the data.
+
+## Analyzed Dataset
+- <a href="https://github.com/SunnyRao07/Data-Analysis-Dashboard-In-Excel/blob/main/Vrinda%20Store%20Analyzed%20Data.xlsx">Looked over the data<a/>
+
+
+
+
 
