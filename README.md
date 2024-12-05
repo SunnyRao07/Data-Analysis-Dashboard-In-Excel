@@ -4,10 +4,10 @@
 ## Project Objective
 The primary objective of this project is to develop an interactive dashboard using Microsoft Excel to analyze the store's 2022 sales data. This analysis will provide valuable insights into customer behavior, sales trends, and identify opportunities for growth and improvement in 2023.
 
-# Data source
+## Data source
 - <a href="https://github.com/SunnyRao07/Data-Analysis-Dashboard-In-Excel/blob/main/Vrinda%20Store%20Data%20Set.xlsx">Dataset<a/>
 
-## Key Performance Indicators (KPIs):
+## Key Performance Indicators :
 1. **Sales and Order Comparison:** Visualize the relationship between total sales and total orders in a single chart.
 2. **Peak Sales and Order Month:** Identify the month with the highest number of sales and orders.
 3. **Gender-Based Purchasing:** Determine which gender, male or female, made more purchases.
@@ -16,3 +16,8 @@ The primary objective of this project is to develop an interactive dashboard usi
 6. **Age-Gender Relationship:** Explore the correlation between age and gender based on the number of orders placed.
 7. **Channel Performance:** Determine the sales channel that contributed the most to the overall sales.
 8. **Best-Selling Category:** Identify the product category with the highest sales volume.
+
+## Dashboard User Interface
+- <a href="https://github.com/SunnyRao07/Data-Analysis-Dashboard-In-Excel/blob/main/Screenshot%202024-12-05.png">Access Dashboard<a/>
+
+
