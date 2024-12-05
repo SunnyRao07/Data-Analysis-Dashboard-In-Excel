@@ -1,2 +1,3 @@
-# Data-Analysis-Dashboard-In-Excel
-I implemented a comprehensive data analysis solution using Excel, developing multiple dashboards and tables to visualize and interpret the data. This involved a rigorous data cleaning and preprocessing pipeline followed by data visualization.
+# Comprehensive Data Analysis of Vrinda Store Inventory
+## Project Objective
+The primary objective of this project is to develop an interactive dashboard using Microsoft Excel to analyze the store's 2022 sales data. This analysis will provide valuable insights into customer behavior, sales trends, and identify opportunities for growth and improvement in 2023.
