@@ -17,22 +17,31 @@ The primary objective of this project is to develop an interactive dashboard usi
 7. **Channel Performance:** Determine the sales channel that contributed the most to the overall sales.
 8. **Best-Selling Category:** Identify the product category with the highest sales volume.
 
-## Dashboard User Interface
-- <a href="https://github.com/SunnyRao07/Data-Analysis-Dashboard-In-Excel/blob/main/Screenshot%202024-12-05.png">Access Dashboard<a/>
-
 ## Data Preparation and Analysis Process
-
 1. **Data Quality Assurance:**
    * Conducted a thorough review of the dataset to identify and address any missing values or inconsistencies.
    * Ensured data consistency by standardizing data types, formats, and values.
-
 2. **Data Analysis:**
    * Utilized pivot tables to organize and analyze the data according to the specified questions.
    * Merged multiple pivot tables into a single interactive dashboard.
    * Implemented slicers to enable dynamic filtering and exploration of the data.
 
+## Dashboard User Interface
+- <a href="https://github.com/SunnyRao07/Data-Analysis-Dashboard-In-Excel/blob/main/Screenshot%202024-12-05.png">Access Dashboard<a/>
+
 ## Analyzed Dataset
 - <a href="https://github.com/SunnyRao07/Data-Analysis-Dashboard-In-Excel/blob/main/Vrinda%20Store%20Analyzed%20Data.xlsx">Looked over the data<a/>
+
+## Project Insights:
+* **Gender Preference:** Women customers exhibit a higher propensity for online shopping compared to men, accounting for approximately 65% of all purchases.
+* **Top-Performing States:** Maharashtra, Karnataka, and Uttar Pradesh emerge as the top three states in terms of product purchases.
+* **Age Demographics:** The adult age group (30-49 years) constitutes the primary consumer segment, contributing to approximately 50% of all purchases.
+* **Preferred Shopping Channels:** Amazon, Flipkart, and Myntra are the most popular online shopping channels, with a significant number of product orders originating from these platforms.
+
+## Final Conclusion:
+To optimize sales for Vrinda Store, a targeted marketing strategy should focus on female customers aged 30-49 residing in Maharashtra, Karnataka, and Uttar Pradesh. By leveraging popular online platforms like Amazon, Flipkart, and Myntra, the store can effectively reach this demographic through targeted advertisements, promotions, and exclusive offers. 
+
+
 
 
 
