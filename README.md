@@ -29,6 +29,8 @@ You can access the dataset here:
 
 ## 🖥️ **Dashboard User Interface**
 You can check out the interactive dashboard here:  
+![Screenshot 2024-12-05](https://github.com/user-attachments/assets/de8ce7d0-7027-40b6-8d0b-75e9ec9033cd)
+
 - [Access Dashboard](https://github.com/SunnyRao07/Data-Analysis-Dashboard-In-Excel/blob/main/Screenshot%202024-12-05.png)
 
 ## 📈 **Analyzed Dataset**
